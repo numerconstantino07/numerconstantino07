@@ -21,4 +21,33 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" tar
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Project Management & Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2965/2965358.png" alt="Gantt Chart" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4052/4052984.png" alt="ERD Tables" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=numerconstantino07&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=numerconstantino07&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numerconstantino07&" alt="GitHub Streak"/>
+</p>
